@@ -3,7 +3,7 @@ BOT_TOKEN = "8065056962:AAH86QjSnru9XLHC4vAiDOKePhv262SNM5Q"
 OWNER_ID = 384106319
 TELEGRAM_API = 39911910
 TELEGRAM_HASH = "d01b048df65e64c6f10ee8e4ffb34c32"
-DATABASE_URL = "mongodb+srv://karnansurya:<db_password>@ksrf2.nauucby.mongodb.net/?appName=ksrf2"
+DATABASE_URL = "mongodb+srv://karnansurya:unniveena7@ksrf2.nauucby.mongodb.net/?appName=ksrf2"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
